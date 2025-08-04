@@ -17,11 +17,13 @@
 - **Message Management**: Edit, delete, and manage your messages
 
 ### 🏦 **Cryptocurrency Wallet**
-- **Multi-Token Support**: SOL, WCT, USELESS, WIF, BUNKER, PENGUIN, FARTCOIN
-- **Real-time Balances**: Live cryptocurrency balance tracking
-- **Transaction History**: Complete transaction logs and history
-- **Token Transfers**: Send and receive various tokens
-- **Solana Integration**: Built on Solana blockchain for fast, low-cost transactions
+- **Multi-Token Support**: Full support for SOL, WCT, USELESS, WIF, BUNKER, PENGUIN, FARTCOIN with real-time price tracking
+- **Quick Transfer Modal**: Lightning-fast token transfers through our intuitive quick chat modal - send crypto in seconds!
+- **Real-time Balances**: Live cryptocurrency balance tracking with instant updates
+- **Transaction History**: Complete transaction logs with detailed information, timestamps, and status tracking
+- **Gas Fee Optimization**: Automatic gas fee calculation and optimization for cost-effective transactions
+- **Token Swap Interface**: COMING SOON
+- **Portfolio Analytics**: Track your crypto portfolio performance with charts and statistics
 
 ### 🤖 **AI Assistant (LUMORA AI)**
 - **Personalized AI**: Custom AI assistant for each user
@@ -30,12 +32,26 @@
 - **Task Assistance**: Help with various platform tasks
 - **Learning Capabilities**: AI learns from your interactions
 
+### **💎 Token System - The Heart of WalletChat**
+Our comprehensive token system powers the entire WalletChat ecosystem:
+
+- **WCT Token**: The native WalletChat Token (WCT) - earn, spend, and trade within the platform
+- **Multi-Token Support**: Full support for popular Solana tokens including USELESS, WIF, BUNKER, PENGUIN, FARTCOIN
+- **Token Rewards**: Earn WCT token through platform engagement, task completion, and community participation
+- **Token Utility**: Use tokens for premium features, exclusive access, and platform governance
+- **Staking System**: COMING SOON
+- **Token Swapping**: COMING SOON
+- **Token Analytics**: Track token performance, price movements, and market trends in real-time
+- **Community Governance**: Participate in platform decisions through token-based voting system
+
 ### 🎁 **Rewards & Gamification**
-- **Task System**: Complete tasks to earn rewards
-- **Wheel of Fortune**: Spin to win cryptocurrency rewards
-- **Proof Submission**: Submit proof of completed tasks
-- **Balance Management**: Track and manage your earned rewards
-- **Withdrawal System**: Withdraw earnings to your wallet
+- **Task System**: Complete social media tasks, profile setup, and community engagement to earn WCT tokens
+- **Wheel of Fortune**: Daily spins to win cryptocurrency rewards - spin the wheel and claim your prizes!
+- **Proof Submission**: Submit proof of completed tasks with our streamlined verification system
+- **Balance Management**: Track and manage your earned rewards with detailed transaction history
+- **Withdrawal System**: Instantly withdraw earnings to your Solana wallet with minimal gas fees
+- **Token Rewards**: Earn WCT (WalletChat Token) for platform engagement and community participation
+- **Achievement System**: COMING SOON
 
 ### 👥 **Social Features**
 - **User Profiles**: Customizable user profiles with avatars
