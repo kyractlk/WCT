@@ -210,5 +210,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Website](https://img.shields.io/badge/Website-WalletChat.io-blue?style=for-the-badge)](https//walletchat.io)
 [![Documentation](https://img.shields.io/badge/Docs-GitBook-blue?style=for-the-badge)](https://docs.walletchat.io)
+[![Twitter](https://img.shields.io/badge/Twitter-WalletChat-blue?style=for-the-badge&logo=twitter)](https://x.com/walletchattoken)
 
 </div> 
