@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile-blue.svg)](https://app.walletchat.io)
 [![Blockchain](https://img.shields.io/badge/Blockchain-Solana-purple.svg)](https://solana.com)
-[![AI](https://img.shields.io/badge/AI-OpenAI%20GPT-green.svg)](https://docs.walletchat.io/documents/lumora-ai-post-api)
+[![AI](https://img.shields.io/badge/AI-LUMORA%20AI-green.svg)](https://docs.walletchat.io/documents/lumora-ai-post-api)
 
 > **WalletChat** is a revolutionary blockchain-powered messaging platform that combines secure communication, cryptocurrency wallet functionality, AI assistance, and social features in one comprehensive application.
 
